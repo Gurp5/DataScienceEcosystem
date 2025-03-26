@@ -1,12 +1,13 @@
 # DataScienceEcosystem
-Final Assignment: Jupyter Notebook Project in Skills Network   
+Final Assignment: Jupyter Notebook Project in Skills Network  
 Course: IBM Data Science Proessionals Certificate   
-2nd Module: Tools for Data Science  
+2nd Module: Tools for Data Science   
 
 ## Overview
 
-As part of the assignment, I have included required screenshots to document each step. These images serve as proof of completion and follow the specified formatting guidelines (.jpg or .png).
-Notebook Structure
+As part of the assignment, I have included required screenshots to document each step. These images serve as proof of completion and follow the specified formatting guidelines (.png).  
+
+**Notebook Structure and Content:**
 
 1. Jupyter Notebook Creation
 The project begins with the creation of a new Jupyter Notebook titled DataScienceEcosystem.ipynb.
